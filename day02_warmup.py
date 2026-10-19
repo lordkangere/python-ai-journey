@@ -1,5 +1,5 @@
 age = int(input("Type in your age: "))
-ticket_price = 0
+ticket_price = 999
 
 #Under 5 is free, under 18 is half price (150), anyone else pays full
 #  price (300).
