@@ -31,5 +31,3 @@ print()
 print('------RESULTS------')
 print(f"{quantity} * {unit_price:,.4f} = {total:,.2f}")
 print(item_name.upper())
-
-print("5"+"4")
